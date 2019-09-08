@@ -1,0 +1,7 @@
+---
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: nginx-ingress-conf
+data:
+# If needed you can put datas in this config file
